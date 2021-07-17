@@ -1,2 +1,2 @@
-# USCGBTG
-Bootcamp Training Guide Landing
+# USCGBSG
+Bootcamp Study Guide Landing
