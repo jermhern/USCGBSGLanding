@@ -1,10 +1,10 @@
-# USCGBSG
-Bootcamp Study Guide Landing
+# USCGBPK
+Bootcamp Prep Kit Landing
 
 ## I created an app go get those going to Coast Guard Bootcamp Ready!
 
 ## About the app 📱
-I created the Bootcamp Study Guide to help prospective members of the USCG ready for their upcoming 8-Weeks in Training Center Cape May. With this you will be confident on what you can expect when going to bootcamp. Directly from the Recruit Guide, you will be studying exactly what you need to succeed through your next 8-Weeks.
+I created the Bootcamp Prep Kit to help prospective members of the USCG ready for their upcoming 8-Weeks in Training Center Cape May. With this you will be confident on what you can expect when going to bootcamp. Directly from the Recruit Guide, you will be studying exactly what you need to succeed through your next 8-Weeks.
 
 ## Features 📝
 * Built-in Quizzes on Important Topics. Get graded results right when you finish the quiz!
